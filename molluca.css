@@ -108,3 +108,8 @@ footer li img {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+img{
+  padding: 10px;
+  margin: 10px, 10px, 10px, 10px;
+}
