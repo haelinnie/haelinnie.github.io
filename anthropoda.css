@@ -31,7 +31,6 @@ header a {
 header a:hover {
  text-decoration: none;
  color: black;
-
 }
 
 .jumbotron {
@@ -110,6 +109,7 @@ footer li img {
 }
 
 img{
+  height: 300px;
+  width: 400px;
   padding: 10px;
-  margin: 10px, 10px, 10px, 10px;
 }
